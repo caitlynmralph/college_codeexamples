@@ -1,6 +1,6 @@
 '''
 Caitlyn Ralph, 2017 ISP: Data Journalism
-Analysis Paper Code on _ Dataset
+Analysis Paper Code
 Code help from "Introduction to Machine Learning in Python: A Guide for Data Scientists"
 by A. C. Miller and S. Guido.
 '''
